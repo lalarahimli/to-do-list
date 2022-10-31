@@ -1,0 +1,85 @@
+.container{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 336px;
+    height: 236px;
+    left: 408px;
+    top: 232px;
+ margin-left: 210px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+.lali{
+    
+
+width: 336px;
+height: 28px;
+left: 408px;
+top: 232px;
+border-radius: 10px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0px;
+background: #FFDC40;
+}
+h1{
+ 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.bir{
+margin-left: 300px;
+width: 25px;
+height: 15px;
+left: 689px;
+top: 323px;
+}
+.uc{
+    box-sizing: border-box;
+
+width: 286px;
+height: 40px;
+left: 436px;
+top: 349px;
+margin-left: 28px;
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+}
+.iki{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 272px;
+    top: 121px;
+}
+.dort{
+    position: absolute;
+    width: 150px;
+    height: 42px;
+    left: 100px;
+    top: 170px;
+    color: black; 
+         
+}    
+.humay{
+    position: absolute;
+width: 42px;
+height: 42px;
+left: 100px;
+top: 170px;
+
+}
+.bes{
+    margin-left: 300px;
+    width: 25px;
+    height: 15px;
+    left: 689px;
+    top: 323px;
+}
